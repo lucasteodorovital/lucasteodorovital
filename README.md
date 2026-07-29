@@ -16,9 +16,9 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge"/>
+
+
+
 <img src="https://img.shields.io/badge/SHAP-0A192F?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Optuna-3D4A9C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -35,8 +35,8 @@
 <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+
+
 <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws"/>
 <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/>
 
